@@ -1,8 +1,7 @@
 import React from 'react'
 
 // var data = ""
-
-function Data() {
+export function chap0part1() {
   return (
     <div>
       <b>Chapter0 part 1:</b>  Lorem ipsum dolor sit amet consectetur adipisicing elit.  part 1:  Lorem ipsum dolor sit amet consectetur
@@ -53,34 +52,135 @@ function Data() {
       Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
       sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
       mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
+      loribus neque, consequatur voluptatum vitae beatae ullam repellat vel. Sit repellendus
+      voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
+      sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
+      mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.  part 1:  Lorem ipsum dolor sit amet consectetur
+      adipisicing elit. Temporibus doloribus neque, consequatur voluptatum vitae beatae ullam repellat vel. Sit repellendus
+      voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
+      sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
+      mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.  part 1:  Lorem ipsum dolor sit amet consectetur
+      adipisicing elit. Temporibus doloribus neque, consequatur voluptatum vitae beatae ullam repellat vel. Sit repellendus
+      voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
+      sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
+      mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.  part 1:  Lorem ipsum dolor sit amet consectetur
+      adipisicing elit. Temporibus doloribus neque, consequatur voluptatum vitae beatae ullam repellat vel. Sit repellendus
+      voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
+      sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
+      mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
+      Lorem ipsum dolor sit amet consectetur adipisicing elit.  part 1:  Lorem ipsum dolor sit amet consectetur
+      adipisicing elit. Temporibus doloribus neque, consequatur voluptatum vitae beatae ullam repellat vel. Sit repellendus
+      voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Corrupti illo sint excepturi molestias, mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste
+      sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias,
+      mollitia, rationequod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat.
     </div>
   )
 }
 
-// data += data;
-// data += data;
-// data += data;
-// data += data;
-// data += data;
-// data += data;
 
-{/* <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus doloribus neque, consequatur voluptatum vitae
-            beatae ullam repellat vel. Sit repellendus voluptatibus dicta blanditiis facilis est eos nostrum, corporis nihil!
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias, mollitia, ratione
-            quod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti illo sint excepturi molestias, mollitia, ratione
-            quod quos quam nesciunt dolore, odit sunt maiores illum laborum iste sit tempore numquam. Repellat!
-          </p> */}
+export function chap0part2() {
+  return (
+    <div>
+      <b>Chapter0 part 2:</b> 
+    </div>
+  )
+}
 
 
+export function chap0part3() {
+  return (
+    <div>
+      <b>Chapter0 part 3:</b> 
+    </div>
+  )
+}
 
 
-var Content =
+export function chap1part1() {
+  return (
+    <div>
+      <b>Chapter1 part 1:</b> 
+    </div>
+  )
+}
 
-  [[<Data></Data>, "Chapter0 Part2", "Chapter0 Part3"],
-  ["Chapter1 Part1", "Chapter1 Part2", "Chapter1 Part3"],
-  ["Chapter2 Part1", "Chapter2 Part2", "Chapter2 Part3"],
-  ["Chapter3 Part1", "Chapter3 Part2", "Chapter3 Part3"]];
+
+export function chap1part2() {
+  return (
+    <div>
+      <b>Chapter1 part 2:</b> 
+    </div>
+  )
+}
 
 
-export default Content;
+export function chap1part3() {
+  return (
+    <div>
+      <b>Chapter1 part 3:</b> 
+    </div>
+  )
+}
+
+
+export function chap2part1() {
+  return (
+    <div>
+      <b>Chapter2 part 1:</b> 
+    </div>
+  )
+}
+
+
+export function chap2part2() {
+  return (
+    <div>
+      <b>Chapter2 part 2:</b> 
+    </div>
+  )
+}
+
+
+export function chap2part3() {
+  return (
+    <div>
+      <b>Chapter2 part 3:</b> 
+    </div>
+  )
+}
+
+
+
+export function chap3part1() {
+  return (
+    <div>
+      <b>Chapter3 part 1:</b> 
+    </div>
+  )
+}
+
+
+export function chap3part2() {
+  return (
+    <div>
+      <b>Chapter3 part 2:</b> 
+    </div>
+  )
+}
+
+
+export function chap3part3() {
+  return (
+    <div>
+      <b>Chapter3 part 3:</b> 
+    </div>
+  )
+}
