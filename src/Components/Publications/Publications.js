@@ -1,5 +1,5 @@
-import Content from "./Content";
-import "./index.css"
+import Content from "./Content/Content";
+import "./Publications.css"
 
 const Publications = () => {
     return (

@@ -1,5 +1,5 @@
-import Redirect from "../../../assets/Redirect_Updated.png";
-import "./index.css";
+import Redirect from "../../Resources/Redirect_Updated.png";
+import "./Content.css";
 
 const Content = () => {
   return (
