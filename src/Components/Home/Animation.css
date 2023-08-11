@@ -2,6 +2,7 @@
     height: 50vh;
     width: 30vw;
 }
+
 @media screen and (max-width:1200px)
 {
     .animation1{
