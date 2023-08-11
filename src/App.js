@@ -29,9 +29,9 @@ function App() {
 
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/telescopes" element={<Telescope />}/>
-        <Route path="/publications" element={<Publications />}/>
+        <Route path="RTP-Project/" element={<Home />}/>
+        <Route path="RTP-Project/telescopes" element={<Telescope />}/>
+        <Route path="RTP-Project/publications" element={<Publications />}/>
         {/* <Route path="/team" element={<Team />}/> */}
         {/* <Route path="/contact" element={<Contact />}/> */}
         {/* <Route path="*" element={<NotFound />} /> */}

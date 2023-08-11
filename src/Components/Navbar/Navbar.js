@@ -16,20 +16,20 @@ function Navbar() {
             <div className="right-nav">
                 <div className="headings">
                     <div className="nav-item">
-                        <Link to="/" id="home" className='nav-link'>Home</Link>
+                        <Link to="RTP-Project/" id="home" className='nav-link'>Home</Link>
                         <hr className="navline" />
                     </div>
                     
                     <div className="nav-item">
-                        <Link to="/telescopes" id="telescopes" className="nav-link">Telescopes</Link>
+                        <Link to="RTP-Project/telescopes" id="telescopes" className="nav-link">Telescopes</Link>
                         <hr className="navline" />
                     </div>
                     <div className="nav-item">
-                        <Link to="/publications" className='nav-link'>Publications</Link>
+                        <Link to="RTP-Project/publications" className='nav-link'>Publications</Link>
                         <hr className="navline" />
                     </div>
                     <div className="nav-item">
-                        <Link to='/team' className='nav-link'>Team</Link>
+                        <Link to='RTP-Project/team' className='nav-link'>Team</Link>
                         <hr className="navline" />
                     </div>
 
