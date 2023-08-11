@@ -8,10 +8,10 @@ import Footer from './Components/Footer/Footer'
 function App() {
   return (
     <>
-      <Navbar/>
-      {/* <Home/> */}
-      <Telescope/>
-      <Footer/>
+      {/* <Navbar/> */}
+      <Home/>
+      {/* <Telescope/> */}
+      {/* <Footer/> */}
     </>
   );
 }
