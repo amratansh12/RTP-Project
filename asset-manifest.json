@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RTP-Project/static/css/main.b45aab13.css",
+    "main.js": "/RTP-Project/static/js/main.3af5d9fb.js",
+    "static/js/787.8eee1727.chunk.js": "/RTP-Project/static/js/787.8eee1727.chunk.js",
+    "static/media/wallpaper.png": "/RTP-Project/static/media/wallpaper.1d324260362802480007.png",
+    "static/media/image 82.png": "/RTP-Project/static/media/image 82.86fa097b342df7d9eb94.png",
+    "static/media/Colored.png": "/RTP-Project/static/media/Colored.1585d59080a5dad1fefb.png",
+    "static/media/img1.png": "/RTP-Project/static/media/img1.e210e3ce61402be1b30c.png",
+    "static/media/img2.png": "/RTP-Project/static/media/img2.8a673d29c5bf63310bb3.png",
+    "static/media/image1.png": "/RTP-Project/static/media/image1.edd71fa30d5357b1e08c.png",
+    "static/media/image2.png": "/RTP-Project/static/media/image2.edbc0243d8e68f5eedd7.png",
+    "static/media/image3.png": "/RTP-Project/static/media/image3.dc33c7932155547d50c3.png",
+    "static/media/map.png": "/RTP-Project/static/media/map.c7ff0e363e8babf72903.png",
+    "static/media/satellite.png": "/RTP-Project/static/media/satellite.ac101cbf2a85e063b6c1.png",
+    "static/media/Redirect_Updated.png": "/RTP-Project/static/media/Redirect_Updated.40c088dbb6d6d5594e95.png",
+    "index.html": "/RTP-Project/index.html",
+    "main.b45aab13.css.map": "/RTP-Project/static/css/main.b45aab13.css.map",
+    "main.3af5d9fb.js.map": "/RTP-Project/static/js/main.3af5d9fb.js.map",
+    "787.8eee1727.chunk.js.map": "/RTP-Project/static/js/787.8eee1727.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45aab13.css",
+    "static/js/main.3af5d9fb.js"
+  ]
+}
