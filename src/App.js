@@ -15,6 +15,12 @@ function App() {
   return (
     <Router>
     <>
+
+      {/* <Navbar/> */}
+      {/*<Home/>*/}
+      {/* <Telescope/> */}
+      {/* <Footer/> */}
+
       {/* <Navbar/>
       <Publications />
       <Home/>
@@ -31,6 +37,7 @@ function App() {
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
       <Footer />
+
     </>
     </Router>
   );
