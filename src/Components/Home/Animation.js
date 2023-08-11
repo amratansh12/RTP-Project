@@ -7,20 +7,14 @@ import { config } from "react-spring";
 import img1 from '../Resources/image1.png';
 import img2 from '../Resources/image2.png';
 import img3 from '../Resources/image3.png';
+import "./Animation.css";
 // import img3 from "./IMG3.png";
 // import "./App.css"
 
-function myFunction(x) {
-  if (x.matches) { // If media query matches
-    document.body.style.width = "60vh";
-    document.body.style.height = "40vh";
-  } 
-}
 
 function App() {
   
-  var x = window.matchMedia("(max-width: 900)")
-  myFunction(x);
+
 
   const slides = [
     {
@@ -67,7 +61,7 @@ function App() {
   // console.log(time);
   return (
     <div>
-      <div style={{ height: "50vh", width: "30vw" }}>
+      <div className="animation1">
         <Carousel
           style={{ height: "60vh" }}
 
