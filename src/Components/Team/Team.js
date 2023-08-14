@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Home.css";
+import "./team.css";
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import upper from './Upper gradient.svg';
@@ -41,7 +41,8 @@ import karun from './karun.png';
 import meena from './meena.png';
 import patnaik from './patnaik.png';
 import sanjay from './sanjay.png';
-function Home() {
+
+function Team() {
   const teamPhotos = [
     teampic2,
     teampic3,
@@ -418,7 +419,7 @@ function Home() {
 }
 
 
-export default Home
+export default Team
 
 
 

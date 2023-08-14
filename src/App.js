@@ -3,7 +3,8 @@ import React from 'react'
 import Navbar from './Components/Navbar/Navbar';
 import Home from './Components/Home/Home';
 import Telescope from './Components/Telescope/Telescope';
-import Footer from './Components/Footer/Footer'
+import Footer from './Components/Footer/Footer';
+import Team from './Components/Team/Team';
 import Publications from './Components/Publications/Publications';
 import {
   BrowserRouter as Router,
@@ -32,7 +33,7 @@ function App() {
         <Route path="RTP-Project/" element={<Home />}/>
         <Route path="RTP-Project/telescopes" element={<Telescope />}/>
         <Route path="RTP-Project/publications" element={<Publications />}/>
-        {/* <Route path="/team" element={<Team />}/> */}
+        <Route path="RTP-Project/team" element={<Team />}/>
         {/* <Route path="/contact" element={<Contact />}/> */}
         {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
